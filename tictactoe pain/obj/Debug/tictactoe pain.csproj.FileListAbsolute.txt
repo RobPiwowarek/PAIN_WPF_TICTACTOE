@@ -1,0 +1,14 @@
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\bin\Debug\tictactoe pain.exe.config
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\bin\Debug\tictactoe pain.exe
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\bin\Debug\tictactoe pain.pdb
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe pain.csprojResolveAssemblyReference.cache
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\MainWindow.g.cs
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\App.g.cs
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe pain_MarkupCompile.cache
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe pain_MarkupCompile.lref
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\MainWindow.baml
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe pain.g.resources
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe_pain.Properties.Resources.resources
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe pain.csproj.GenerateResource.Cache
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe pain.exe
+C:\Users\SirAaron\Desktop\tictactoe pain\tictactoe pain\obj\Debug\tictactoe pain.pdb
